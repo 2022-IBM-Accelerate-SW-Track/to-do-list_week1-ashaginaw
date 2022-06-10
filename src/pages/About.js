@@ -20,7 +20,7 @@ export default class About extends Component {
       <div className="centered">
         <div className="name_title">Amanda Shaginaw</div>
         <div className="brief_description">
-          Hello! I am currently studying Computer Science at Duquesne University! I am also a Service Desk Analyst III, assisting with behind-the-scene applications and student/staff permissions. One day I hope to work at IBM working with Artificial Intelligence. A fun fact: I am internationally ranked for speedrunning Pokemon: The Trading Card Game (currently 61st)!
+          Hello! I am currently studying Computer Science at Duquesne University. I am also a Service Desk Analyst III, assisting with behind-the-scene applications and student/staff permissions. One day I hope to work at IBM working with Artificial Intelligence. A fun fact: I am internationally ranked for speedrunning Pokemon: The Trading Card Game (currently 61st)!
         </div>
       </div>
     </div>

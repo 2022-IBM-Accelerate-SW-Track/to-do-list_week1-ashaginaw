@@ -19,7 +19,8 @@ class AddTodo extends Component {
     // The handleSubmit function collects the forms input and puts it into the react state.
     // event.preventDefault() is called to prevents default event behavior like refreshing the browser.
     // this.props.addTodo(this.state) passes the current state (or user input) into the addTodo function defined
-    // in the Home.js file which then adds the input into the list.
+    // in the Home.js file which then adds 
+    // the input into the list.
     handleSubmit = (event) => {
       event.preventDefault();
       if (this.state.content.trim()) {
